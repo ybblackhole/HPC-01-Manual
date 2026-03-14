@@ -175,3 +175,13 @@ Example:
 ``` shell
 scancel 11500
 ```
+
+------------------------------------------------------------------------
+
+## 4. Setup a _mamba_ environment
+
+You must initialize a mamba for your account by:
+
+```shell
+source /opt/miniforge/bin/activate
+```
