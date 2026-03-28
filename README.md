@@ -7,7 +7,7 @@ Use SSH to connect to the HPC-01 server.
 **Command:**
 
 ``` shell
-ssh <username>@trongchinh.zapto.org
+ssh <username>@trongchinh.zapto.org -p 6820
 ```
 
 **Note:** Replace `<username>` with your assigned username.
